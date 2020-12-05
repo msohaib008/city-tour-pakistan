@@ -3,32 +3,32 @@ export  const tourData = [
     id: 1,
     city: "lahore",
     img: "./img/lahore.jpg",
-    name: "new york bridge tour",
+    name: "Lahore Fort Tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Packed with historic landmarks, bustling eateries, and manicured parks, the vibrant city of Lahore exudes culture at every corner "
   },
   {
     id: 2,
-    city: "paris",
-    img: "./img/paris.jpeg",
-    name: "paris lights tour",
+    city: "karachi",
+    img: "./img/karachi.jpg",
+    name: "Clifton karachi tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Karachi is the capital of the Pakistani province of Sindh. It is the largest city in Pakistan and seventh largest city proper in the world "
   },
   {
     id: 3,
-    city: "london",
-    img: "./img/london.jpeg",
-    name: "london royal palace tour",
+    city: "murree",
+    img: "./img/murree.jpg",
+    name: "Ayubia chair lift tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Winter Holidays in Pakistan is Overview of Winter in North! as we know Winters are short period of time. Therefore, Mostly people enjoy snow Sports in North"
   },
   {
     id: 4,
-    city: "tokyo",
-    img: "./img/tokyo.jpeg",
-    name: "tokyo sushi tour",
+    city: "hunza",
+    img: "./img/hunza.jpg",
+    name: "Altit fort tour",
     info:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+      "Altit Fort Hunza according to the verbal history is almost 900 years old. The Altit Fort is present at almost 3 kilometers away from Karimabad on the bank of the Hunza River"
   }
 ];
