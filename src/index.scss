@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack:#222;
+$mainGreen:#82B340;
+$mainWhite:#FFF;
+$mainGrey:#cccccc;
+
+
+
+body {
+font-family:'Roboto', sans-serif;
+background: $mainWhite;
+color: $mainBlack;
+}
+
+
+
+
